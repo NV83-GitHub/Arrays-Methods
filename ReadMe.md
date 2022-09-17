@@ -2,7 +2,7 @@
 
 Juste une petite révision des méthodes Arrays et différentes applications courantes.
 
-<ol>
+<ul>
   <li>forEach</li>
   <li>map</li>
   <li>includes</li>
@@ -27,7 +27,7 @@ Juste une petite révision des méthodes Arrays et différentes applications cou
   <li>from</li>
   <li>isArray</li>
   <li>flat</li>
-</ol>
+</ul>
   
 <p>Utilise node arrays.js dans la console pour faire tourner le script
 
